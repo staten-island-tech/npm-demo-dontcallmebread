@@ -1,0 +1,28 @@
+{
+  "name": "npm-demo-for-class",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aos": "^2.3.4"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.26.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staten-island-tech/npm-demo-dontcallmebread.git"
+  },
+  "bugs": {
+    "url": "https://github.com/staten-island-tech/npm-demo-dontcallmebread/issues"
+  },
+  "homepage": "https://github.com/staten-island-tech/npm-demo-dontcallmebread#readme",
+  "description": ""
+}
